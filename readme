@@ -1,0 +1,39 @@
+# Investment Growth Chart
+
+## Author
+Jeremiah E. Ochepo
+
+## Last Updated
+February 15, 2020 (7 PM)
+
+## Description
+This program calculates and visualizes the growth of a 10-year investment based on the initial principal and annualized interest rate provided by the user. The growth is represented by a bar chart, showing the investment value for each year.
+
+## How to Use
+1. Run the program.
+2. Enter the initial principal amount when prompted.
+3. Enter the annualized interest rate when prompted.
+4. Enter the number of years for which you want to observe the investment growth.
+5. Observe the graphical representation of the investment growth in the window that appears.
+6. Press <Enter> to close the window and quit the program.
+
+## Features
+- The program provides a visual representation of the investment growth using a simple bar chart.
+- Labels on the left edge of the chart indicate different monetary values.
+- The user is prompted to input the initial principal, annualized interest rate, and the number of years.
+- The program calculates and displays the investment value for each year.
+- The graphical window allows users to visually understand the growth pattern.
+
+## Requirements
+- Python 3.x
+- graphics module (Ensure the graphics module is installed: `pip install graphics.py`)
+
+## Example
+
+The program will generate a graphical window displaying the investment growth over the specified number of years.
+
+## Note
+- Make sure the `graphics` module is installed. You can install it using `pip install graphics.py`.
+
+Enjoy exploring your investment growth!
+
